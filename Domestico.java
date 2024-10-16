@@ -30,7 +30,7 @@ public class Domestico extends Automovel {
         this.tipoFreio = tipoFreio;
     }
 
-    public String getAirbag() {  // Agora retorna uma String
+    public String getAirbag() { 
         return airbag;
     }
 
