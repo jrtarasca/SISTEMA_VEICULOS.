@@ -25,4 +25,4 @@ Vscode
 ![Captura de tela 2024-11-29 201559](https://github.com/user-attachments/assets/a7663e22-45ff-4901-8521-c369585df6b4)
 ![Captura de tela 2024-11-29 201710](https://github.com/user-attachments/assets/540463c9-229f-4f86-890b-a79be5f7a1cc)
 ![Captura de tela 2024-11-29 201639](https://github.com/user-attachments/assets/f8ba1a99-29b9-4cb4-b195-00e852bc8245)
-![Captura de tela 2024-11-29 201617](https://github.com/user-attachments/assets/37eeefb1-5e03-4723-a439-42a48f5c0ae3)
+
